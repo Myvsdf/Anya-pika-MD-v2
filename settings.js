@@ -8,8 +8,8 @@ global.author = "Arnold Dragneel"
 global.packname = "Arnold🤠❤Monkey D luffy"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.headerText = "Anya by Arnold" // text for header of menu         
+global.DocumentTitle = "MASTER⚔️ARNOLD" 
 
 
 global.ownername = "Arnold Dragneel"   // Owner name //        
